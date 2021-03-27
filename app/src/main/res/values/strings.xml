@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HW3_yboqi</string>
+
+    <string-array name="songs">
+        <item>go tech go</item>
+        <item>mario</item>
+        <item>tetris</item>
+    </string-array>
+
+    <string-array name="overlaps">
+        <item>cheering</item>
+        <item>clapping</item>
+        <item>lestgohokies</item>
+    </string-array>
+</resources>
